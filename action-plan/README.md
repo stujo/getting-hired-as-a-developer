@@ -67,17 +67,17 @@
 * Follow Up
 
 ## Weekly Commitment
-* Pick a language you don't know [Ruby, JavaScript, Java, Python, Go, C#, ObjectiveC, Swift, Haskell, Scala]
-* Install the required tools on your computer
-* Write a functional Hello World app
+* Pick a language you don't know [[Ruby](https://www.ruby-lang.org/en/documentation/quickstart/), [JavaScript](http://expressjs.com/en/starter/hello-world.html), [Java](https://docs.oracle.com/javase/tutorial/getStarted/application/), [Python](http://www.learnpython.org/en/Hello,_World!), [Go](https://gobyexample.com/hello-world), [C#](https://msdn.microsoft.com/en-us/library/aa288463(v=vs.71).aspx), [Swift](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html), [Haskell](https://wiki.haskell.org/Haskell_in_5_steps), [Scala](http://www.scala-lang.org/documentation/getting-started.html)]
+  - Install the required tools on your computer
+  - Write a Hello World app
 * Pick a data structure [Stack, Queue, Linked List, Graph, Tree] 
-* Define the Interface the Data Structure needs
-* Implement the Data Structure in any programming language
+  - Define the Interface the Data Structure needs
+  - Implement the Data Structure in any programming language
 * Pick a library [library, gem, module, package]
-* Write and present a lightning talk on how it is used
+  * Write and present a lightning talk on how it is used
 * Pick a web based API
-* Write and present a lightning talk on how it is used
+  * Write and present a lightning talk on how it is used
 * Choose one [Project Euler](https://projecteuler.net/) problem 
-* Write Pseudocode for the solution on a notepad / whiteboard
-* Take a photo of the whiteboard and email a copy to yourself
-* Translate the Pseudocode from your email to code in any programming language
+  - Write Pseudocode for the solution on a notepad / whiteboard
+  - Take a photo of the whiteboard and email a copy to yourself
+  - Translate the Pseudocode from your email to code in any programming language
