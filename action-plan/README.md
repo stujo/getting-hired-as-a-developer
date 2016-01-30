@@ -55,6 +55,7 @@
   + Build : [Gulp, Grunt, ant, Rake]
 
 ##Interviews
+* [Helpful Resources](../technical-interviews/README.md)
 * Questions
   * Have Answers: [50 Top Questions](http://depts.gpc.edu/careerservices/50%20Common%20Interview%20Questions.pdf)
 * Apply!
