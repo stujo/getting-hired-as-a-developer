@@ -21,6 +21,7 @@
 * Technical
     - [Kenny Yu - Problems](https://github.com/kennyyu/workshop/blob/master/problems.pdf) - [cached](../resources/kennyyu/problems.pdf)
     - [Kenny Yu - Workshop](https://github.com/kennyyu/workshop/blob/master/workshop.pdf) - [cached](../resources/kennyyu/workshop.pdf)
+    - [Web Security](http://www.webappsec.org/documents/web_security_interview_question.shtml)
 * Non-Technical
     - [Glass Door 50  Interview Questions](https://www.glassdoor.com/Interview/seattle-interview-questions-SRCH_IL.0,7_IM781.htm)
     - [Georgia Perimeter College](http://depts.gpc.edu/careerservices/50%20Common%20Interview%20Questions.pdf) - [cached](../resources/depts.gpc.edu/50%20Common%20Interview%20Questions.pdf)
