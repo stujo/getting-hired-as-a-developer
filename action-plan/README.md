@@ -90,6 +90,8 @@
 * Deployment
   + [Heroku](https://devcenter.heroku.com/articles/git)
   + [AWS](http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html) (awareness)
+* Online Courses
+  + [CS 50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) 
 
 #Ecosystem
 - Languages
