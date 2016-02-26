@@ -45,7 +45,6 @@
 
 #CS Skills
 * Thinking Out Loud
-* Google Fu
 * Algorithms
   * [Why Study Algorithms?](https://www.youtube.com/watch?v=6NKi7eCabzo) 
   * [Intro - Integer Multiplication](https://www.youtube.com/watch?v=zsCSEQSyhpY) 
@@ -92,6 +91,18 @@
   + [AWS](http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html) (awareness)
 * Online Courses
   + [CS 50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) 
+
+#Developer Fu
+* Problem Decomposition
+* Google Fu
+* From Use cases to Implementation
+  1 Use Cases
+  2 Abstractions
+  3 Behaviours
+  4 Design to Resolve Duplication
+  5 Testing
+  6 Implemenation
+  7 Refactoring
 
 #Ecosystem
 - Languages
